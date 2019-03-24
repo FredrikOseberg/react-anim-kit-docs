@@ -1,0 +1,12 @@
+.propscard {
+  background-color: var(--dark-color);
+  border-radius: 3px;
+  padding: 0.5rem 1.5rem;
+  color: #fff;
+  margin: 1rem 0;
+}
+
+.propscard--title {
+  color: var(--light-green);
+  font-size: 1.1rem;
+}

@@ -1,0 +1,7 @@
+.animateHeightBySacrificingPerf {
+  text-align: left;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}

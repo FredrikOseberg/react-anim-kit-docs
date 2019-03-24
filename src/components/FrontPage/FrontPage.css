@@ -1,0 +1,53 @@
+.frontpage--cover {
+  background-image: linear-gradient(to bottom, var(--main-color), var(--secondary-color));
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.frontpage--container {
+  transform: translateY(-100px);
+}
+
+.frontpage--header {
+  font-weight: bold;
+  color: var(--frontpage-text-color);
+  font-size: 2.5rem;
+}
+
+.frontpage--copy {
+  padding: 1rem 2rem;
+  background-color: var(--secondary-color);
+  border-radius: 3px;
+  color: var(--frontpage-text-color);
+}
+
+.frontpage--copy--paragraph {
+  margin: 0;
+}
+
+.frontpage--button--container {
+  display: flex;
+  margin: 1.5rem 0;
+  width: 380px;
+  justify-content: space-between;
+}
+
+.frontpage--button {
+  background-color: #1b3744;
+  color: var(--frontpage-text-color);
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 180px;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 3px;
+}
+
+.frontpage--button--icon {
+  width: 15px;
+  margin-right: 5px;
+}
