@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="126px" height="95px" viewBox="0 0 126 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(61.569742, 48.370237) rotate(-19.000000) translate(-61.569742, -48.370237) translate(10.569742, 7.370237)" fill-rule="nonzero" stroke="#FFFFFF">
+            <g id="Group-3" transform="translate(0.000000, 0.000000)">
+                <path d="M34.225,37.62 C21.6560374,8.67675581 11.3715561,-3.25486628 3.37155606,1.82513372 C-4.62844394,6.90513372 5.65603738,18.8367558 34.225,37.62 L34,81 L102,81 L102,35.7856304 C85.6666667,7.26187681 74.6666667,-4 69,2 C60.5,11 77.3207096,21.432968 95.8257758,35.7856304 C96.3448098,36.1881969 97.1445512,36.7996534 98.225,37.62 L88.225,37.62 L34.225,37.62 Z" id="Path" stroke-width="4"></path>
+                <polyline id="Path-2" stroke-width="4" points="33 81 4.97077192 59 4.97077192 17.4435121 6.27294241 15.6890821"></polyline>
+                <path d="M4,59 L74,59" id="Path-5" stroke-width="3"></path>
+            </g>
+            <path d="M5.13290194,19 L75,19" id="Path-3" stroke-width="4"></path>
+            <polyline id="Path-4" stroke-width="3" points="72 19 72 58 102 81"></polyline>
+        </g>
+    </g>
+</svg>
