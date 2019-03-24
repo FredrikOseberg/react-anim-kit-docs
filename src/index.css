@@ -18,6 +18,10 @@ a {
   color: inherit;
 }
 
+h1 {
+  word-break: break-all;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
   max-width: 100%;

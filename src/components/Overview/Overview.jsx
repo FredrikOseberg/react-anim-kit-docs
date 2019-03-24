@@ -59,7 +59,7 @@ class Overview extends Component {
             While this library is built on React, the principles are universal and can be used with
             any JS framework, or vanilla JS. The most difficult and perhaps most useful feature of
             this library is AnimateHeight. I've taken the time to build out an example in vanilla js
-            that can be used as a reference for implementing this technique in your own projects.
+            that can be used as a reference for implementing this technique in your own projects.{" "}
             <a
               href="https://codesandbox.io/s/3x2zjl0l7m"
               target="_blank"

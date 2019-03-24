@@ -24,10 +24,11 @@ class FrontPage extends Component {
           </FadeIn>
           <FadeIn up by={300} easeTiming={0.6} delayBy={0.5}>
           <div className="frontpage--button--container">
-            <Link to="#">
-              {' '}
+            <a href="https://github.com/FredrikOseberg/react-anim-kit"
+              target="_blank"
+              rel="noopener noreferrer">
               <Button className="frontpage--button"><img src={github} alt="github" className="frontpage--button--icon" />Github</Button>
-            </Link>
+            </a>
             <Link to="/docs">
               <Button className="frontpage--button"><img src={book} alt="book" className="frontpage--button--icon" />Documentation</Button>
             </Link>

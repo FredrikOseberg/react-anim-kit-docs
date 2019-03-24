@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import classnames from 'classnames'
+import times from '../../assets/times.svg'
 
 import './Sidebar.css';
 
@@ -15,7 +16,7 @@ class Sidebar extends Component {
     return (
       <div className={classes}>
         <div className="sidebar--container">
-        <button className="sidebar--close-button" onClick={this.props.toggleSidebar}>Hide</button>
+        <button className="sidebar--close-button" onClick={this.props.toggleSidebar}><img src={times} alt="cross" className="sidebar--close-button--icon" /></button>
           <h1 className="sidebar--header">Documentation</h1>
           <Link to="/docs" onClick={this.props.toggleSidebar}>
             <h2 className="sidebar--subheader">Overview</h2>

@@ -45,7 +45,7 @@ from 0.5s to 1s and fade in left by 150px
           <p>
             The FadeIn component uses opacity to fade in any of it's children. It is composable, so
             you can have nested FadeIn components within FadeIn components, making it very easy to
-            create animations that build on each other.
+            create animations that build on each other. Every slide in animation on this page is created using this component.
           </p>
           <pre>
             <code>{this.getCodeString('exampleOne')}</code>
