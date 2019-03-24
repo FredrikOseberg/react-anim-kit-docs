@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-anim-kit-docs/static/js/runtime~main.bb9477f7.js"
   },
   {
-    "revision": "7d95c74690625b6d3999",
+    "revision": "c631c37b461a836cef1c",
     "url": "/react-anim-kit-docs/static/js/main.8fa59090.chunk.js"
   },
   {
@@ -32,11 +32,11 @@ self.__precacheManifest = [
     "url": "/react-anim-kit-docs/static/js/2.4bd6a6ea.chunk.js"
   },
   {
-    "revision": "7d95c74690625b6d3999",
-    "url": "/react-anim-kit-docs/static/css/main.27cdc06f.chunk.css"
+    "revision": "c631c37b461a836cef1c",
+    "url": "/react-anim-kit-docs/static/css/main.1d7fc05a.chunk.css"
   },
   {
-    "revision": "04e658afdab143480a753a015dae6c58",
+    "revision": "19042cd4f9b3d06dc48f47334cd047f2",
     "url": "/react-anim-kit-docs/index.html"
   }
 ];
