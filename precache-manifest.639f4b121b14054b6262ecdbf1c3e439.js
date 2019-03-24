@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/react-anim-kit-docs/static/css/main.27cdc06f.chunk.css"
   },
   {
-    "revision": "0cc394d39210fa66ee0990702b4c4b86",
+    "revision": "04e658afdab143480a753a015dae6c58",
     "url": "/react-anim-kit-docs/index.html"
   }
 ];
