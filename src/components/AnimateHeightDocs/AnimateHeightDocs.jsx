@@ -174,6 +174,10 @@ class AnimateHeightDocs extends Component {
               title="renderSpaceAfter: boolean"
               explanation="If renderSpaceAfter is set to true, the component will insert a div with height matching the amount the component has been transitioned, to offset the content below the component."
             />
+            <PropsCard
+              title="style: object"
+              explanation="Takes a style object that is passed to the absolutely positioned background div."
+            />
           </div>
         </div>
       </FadeIn>
