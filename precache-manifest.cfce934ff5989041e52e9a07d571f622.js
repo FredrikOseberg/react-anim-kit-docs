@@ -1,5 +1,9 @@
 self.__precacheManifest = [
   {
+    "revision": "f10df4cae4853a3267f686bd9a8fee39",
+    "url": "/react-anim-kit-docs/static/media/times.f10df4ca.svg"
+  },
+  {
     "revision": "43162b5b4ddc9525b2506fa405416a8b",
     "url": "/react-anim-kit-docs/static/media/logo.43162b5b.svg"
   },
@@ -20,19 +24,19 @@ self.__precacheManifest = [
     "url": "/react-anim-kit-docs/static/js/runtime~main.bb9477f7.js"
   },
   {
-    "revision": "11b11f47d5688befe8a0",
-    "url": "/react-anim-kit-docs/static/js/main.c44e5a11.chunk.js"
+    "revision": "ab3493a33fad66753f44",
+    "url": "/react-anim-kit-docs/static/js/main.26fb2dbf.chunk.js"
   },
   {
-    "revision": "21efccab7b8800231eac",
-    "url": "/react-anim-kit-docs/static/js/2.d9fc02dd.chunk.js"
+    "revision": "98fc44d2919bec652d59",
+    "url": "/react-anim-kit-docs/static/js/2.d7066317.chunk.js"
   },
   {
-    "revision": "11b11f47d5688befe8a0",
-    "url": "/react-anim-kit-docs/static/css/main.47b5aa09.chunk.css"
+    "revision": "ab3493a33fad66753f44",
+    "url": "/react-anim-kit-docs/static/css/main.27cdc06f.chunk.css"
   },
   {
-    "revision": "c4281b67cb46099113227bae06e5f50b",
+    "revision": "58d4ed624f253d467e5fd9d2344f6714",
     "url": "/react-anim-kit-docs/index.html"
   }
 ];
