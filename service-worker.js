@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/FredrikOseberg/react-anim-kit-docs/precache-manifest.bcab6c33a2f83621173f49e20624acaa.js"
+  "/react-anim-kit-docs/precache-manifest.7519cd4922fc9a9823e08fef0ce4eaf0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/FredrikOseberg/react-anim-kit-docs/index.html", {
+workbox.routing.registerNavigationRoute("/react-anim-kit-docs/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
